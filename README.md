@@ -28,6 +28,8 @@ This project involves creating a **Purchasing Intelligence Dashboard** using **P
 6. **Country-Level Insights**:
    - Comparison of product performance across different regions, highlighting the top and least sold products in major markets like the **USA**, **China**, **Germany**, and other global countries.
 
+https://github.com/VasanthM27/Purchasing-Intelligence-Dashboard/blob/main/Folder/1.PNG
+
 ## Key Performance Indicators (KPIs)
 - **Total Purchasing Spend**: Total global spend on purchasing.
 - **Top 10 Commodities**: List of the top commodities with the highest purchasing volume.
